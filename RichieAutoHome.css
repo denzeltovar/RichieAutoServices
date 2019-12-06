@@ -1,0 +1,107 @@
+
+#header h1
+{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: black;
+    color: darkblue;
+    font-family: "Allerta Stencil", Sans-serif;
+        
+}
+
+#header p
+{
+    text-align: center;
+    text-decoration-color: black;
+    color: darkblue   
+}
+#bar {
+	text-align: right;
+    color: white;
+    padding-bottom: 0px;
+    font-size: auto:
+}
+
+
+body h3{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 45;
+    font-family: "Allerta Stencil", Sans-serif;
+    color: black;
+}
+body h2{
+     text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: "Allerta Stencil", Sans-serif;
+    color: black;
+}
+card{
+    -moz-border-radius: 2%;
+    -webkit-border-radius: 2%;
+    border-radius: 2%;
+    box-shadow: 5px 5px 0 rgba(0,0,0,0.08);
+}
+
+.profile .profile-body {
+    padding: 20px;
+    background: #f7f7f7;
+}
+
+.profile .profile-bio {
+    background: #fff;
+    position: relative;
+    padding: 15px 10px 5px 15px;
+}
+
+.profile .profile-bio a {
+    left: 50%;
+    bottom: 20px;
+    margin: -62px;
+    text-align: center;
+    position: absolute;
+}
+
+.profile .profile-bio h2 {
+    margin-top: 0;
+    font-weight: 200;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #585f69;
+    margin-top: 5px;
+    text-shadow: none;
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+}
+h2 {
+    font-size: 24px;
+    line-height: 33px;
+}
+
+p, li, li a {
+    color: #555;
+}  
+
+ .carousel-inner > .item {
+   min-height: 200px
+}
+
+img{
+    min-height: 10vh;
+    max-height: 70vh
+}
+.footer {   
+    position: fixed; 
+    left: 0;  
+    bottom: 0; 
+    width: 100%; 
+    background-color: aliceblue; 
+    color: white;  
+    text-align: center;   
+    padding: 10px; 
+    padding-top: 10px;
+    margin-top: auto;
+    font-size: 0.5rem;
+}
